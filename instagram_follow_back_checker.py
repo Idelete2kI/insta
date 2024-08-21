@@ -40,4 +40,4 @@ def non_follow_backs(username, password, threshold):
             
 #Enter username and password
 #Users who do not follow you back will only show if they have a follower count that is less than or equal to the threshold
-non_follow_backs(username = 'neelchopra90', password = 'gunshot123!!!', threshold = 2500)  
+non_follow_backs(username = '', password = '', threshold = 2500)  
